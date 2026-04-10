@@ -1,0 +1,3 @@
+14:58:xx - Started recording when stepping out of the bus.
+14:59:xx - Walking into the station.
+14:59:38 - Before the ports inside the main station hall.
